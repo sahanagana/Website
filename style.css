@@ -1,1 +1,30 @@
 
+.centered{
+  text-align: center;
+  
+}
+.title{
+  color: #61707D;
+  
+}
+.blog entries{
+  display: grid;
+  background-color: #BAD7F2;
+  box-shadow: 10px 10px;
+  
+}
+.entry{
+  background
+  display: block;
+  transition: .5s ease;
+}
+.entry:hover{
+  opacity:.3;
+}
+
+#date{
+  opacity: 0.7;
+  color: #AFBE8F
+  
+}
+
