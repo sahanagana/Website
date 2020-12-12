@@ -24,7 +24,23 @@
 
 #date{
   opacity: 0.7;
-  color: #AFBE8F
+  color: #AFBE8F;
   
+}
+.readtext{
+  background-color: #BAD7F2;
+  color: #61707D;
+  font-size: 20px;
+  padding 16px 32px;
+}
+.readbox{
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
 }
 
