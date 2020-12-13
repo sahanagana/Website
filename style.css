@@ -9,16 +9,17 @@
 }
 .blogentries{
   padding-top: 100 px;
+  padding-left: 50px;
   display: grid;
-  background-color: #BAD7F2;
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
   grid-row-gap: 50px;
+  width: 50%;
   
 }
 .entry{
-  background
+  background-color: #cce6ff;
   display: block;
   transition: .5s ease;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
   
 }
 .entry:hover{
