@@ -27,20 +27,16 @@
   color: #AFBE8F;
   
 }
-.readtext{
-  background-color: #BAD7F2;
-  color: #61707D;
-  font-size: 20px;
-  padding 16px 32px;
-}
-.readbox{
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
+.button{
+  background-color: ##BAD7F2;
+  border: none;
+  color: white;
+  padding: 16px 32px;
   text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0;
+  transition: 0.3s;
 }
+.btn:hover {opacity: 1}
 
