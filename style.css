@@ -38,8 +38,8 @@
 }
 .button,.entry{
   padding-left: 100px;
-  height: auto;
-  width: auto;
+  height: 80px;
+  width: 500px;
 
 }
 .button{
