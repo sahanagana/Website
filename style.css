@@ -51,6 +51,8 @@
   transition: .5s ease;
   background-color: #3264a8;
   border: none;
+  width: 100px;
+  height: 100px;
 }
 .text {
   color: white;
