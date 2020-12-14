@@ -65,5 +65,5 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
-.container:hover .button{opacity: 1}
+.container:hover .button{opacity: 0.8}
 
