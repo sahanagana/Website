@@ -24,7 +24,7 @@
   background-color: #cce6ff;
   display: block;
   transition: .5s ease;
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
   
 }
 .entry:hover{
@@ -33,7 +33,6 @@
 }
 
 #date{
-  opacity: 0.7;
   color: #AFBE8F;
   
 }
@@ -52,18 +51,18 @@
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #008CBA;
+  background-color: #3264a8;
 }
 .text {
   color: white;
   font-size: 20px;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: auto;
+  left: auto;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
 }
-.container:hover .button{opacity: 0.8}
+.container:hover .button{opacity: 0.5}
 
