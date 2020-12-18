@@ -16,7 +16,7 @@
   
 }
 .container{
- position: relative;
+ position: fixed;
   width: auto;
   height: auto;
 }
