@@ -16,9 +16,8 @@
   
 }
 .container{
- position: fixed;
-  width: auto;
-  height: auto;
+ position: relative;
+  width: 50%;
 }
 .entry{
   width: 100%;
