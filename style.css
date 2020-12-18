@@ -21,6 +21,8 @@
   height: auto;
 }
 .entry{
+  width: 100%;
+  height: auto;
   background-color: #cce6ff;
   display: block;
   transition: .5s ease;
@@ -36,27 +38,25 @@
   color: #AFBE8F;
   
 }
-.button,.entry{
-  padding-left: 100px;
-  height: 80px;
-  width: 500px;
 
-}
 .button{
-  position: relative;
+  position: absolute;
   top: 0;
+  bottom: 0;
   left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #3264a8;
-  border: none;
+  background-color: #008CBA;
 }
 .text {
   color: white;
   font-size: 20px;
   position: absolute;
-  top: auto;
-  left: auto;
+  top: 50%;
+  left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
