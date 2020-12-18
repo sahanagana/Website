@@ -75,5 +75,12 @@ a:hover{
   text-align: center;
   padding: 10px 10px 10px 10px;
   font-size: 36px;
+  background-color: #cce6ff;
 }
-  
+#homebutton{
+  top: 0;
+  left: 0;
+}
+#homebutton:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
