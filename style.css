@@ -29,9 +29,8 @@
   padding-left: 10px;
   
 }
-.entry:hover{
-  opacity:0;
-
+#a:hover + #b {
+    background: #FFFFF;
 }
 
 #date{
