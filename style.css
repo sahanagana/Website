@@ -87,7 +87,9 @@ a:hover{
   top 0;
   left 0;
   padding: 1px 1px 1px 1px;
-  font-size: 12px
+  font-size: 12px;
+  text-alighn: right;
+  position: fixed;
 }
 #aboutbutton : hover{
  font-weight: bold;
