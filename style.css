@@ -29,7 +29,7 @@
   padding-left: 10px;
   
 }
-.container:hover + .entry {
+.container:hover > .entry {
     background: #FFFFF;
   opacity: 0;
 }
