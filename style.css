@@ -50,7 +50,7 @@
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: white;
+  background-color: black;
 }
 .text {
   color: #61707D;
