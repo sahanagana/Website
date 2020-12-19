@@ -30,7 +30,7 @@
   
 }
 .entry:hover{
-  opacity:.2;
+  opacity:0;
 
 }
 
@@ -49,10 +49,10 @@
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: lightgrey;
+  background-color: white;
 }
 .text {
-  color: #AFBE8F;
+  color: #61707D;
   font-size: 20px;
   position: absolute;
   top: 50%;
