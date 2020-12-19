@@ -34,6 +34,7 @@
   opacity: 0;
 }
 
+
 #date{
   color: #AFBE8F;
   
@@ -62,7 +63,7 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
-.container:hover .button{opacity: 1}
+#container:hover .button{opacity: 1}
 a{
   text-decoration: none;
 }
