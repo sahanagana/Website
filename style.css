@@ -29,7 +29,7 @@
   padding-left: 10px;
   
 }
-#a:hover + #b {
+.button:hover + .entry {
     background: #FFFFF;
   opacity: 0;
 }
@@ -46,7 +46,7 @@
   left: 0;
   right: 0;
   height: 100%;
-  width: 100%;
+  width: 110%;
   opacity: 0;
   transition: .5s ease;
   background-color: white;
