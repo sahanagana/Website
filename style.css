@@ -13,15 +13,16 @@
   display: grid;
   grid-row-gap: 50px;
   width: 50%;
-  
-}
-#container{
- position: relative;
-  width: 50%;
   display: grid;
   grid-template-columns: auto auto auto;
   justify-content: center;
   align-content: space-evenly;
+  
+}
+#container{
+ position: relative;
+  width: 100%;
+
 }
 #entry{
   width: 100%;
