@@ -18,6 +18,10 @@
 #container{
  position: relative;
   width: 50%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: center;
+  align-content: space-evenly;
 }
 #entry{
   width: 100%;
