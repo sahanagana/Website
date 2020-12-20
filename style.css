@@ -8,8 +8,8 @@
   
 }
 .blogentries{
-  padding-top: 100 px;
-  padding-left: 50px;
+  padding-top: 100px;
+  padding-left: 100px;
   display: grid;
   grid-gap: 100px;
   width: 50%;
@@ -35,7 +35,7 @@
   
 }
 #container:hover > #entry {
-    background: #FFFFF;
+  background: #FFFFF;
   opacity: 0;
 }
 
