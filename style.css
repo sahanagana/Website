@@ -77,9 +77,9 @@ a:hover{
 }
 #entrytext{
   padding: 20px 500px 10px 500px;
-  font-size: 14px;
+  font-size: 16px;
   background-color: #cce6ff;
-  line-height: 150%;
+  line-height: 200%;
 }
 
 #homebutton:hover {
