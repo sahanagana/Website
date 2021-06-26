@@ -76,10 +76,10 @@ a:hover{
   text-decoration: underline;
 }
 #entrytext{
-  padding: 20px 100px 10px 100px;
-  font-size: 28px;
+  padding: 20px 500px 10px 500px;
+  font-size: 14px;
   background-color: #cce6ff;
-  line-height: 200%;
+  line-height: 100%;
 }
 
 #homebutton:hover {
